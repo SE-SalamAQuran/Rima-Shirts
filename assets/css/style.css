@@ -286,6 +286,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+.top-icon:hover{
+  fill: #13a456;
+  color: #13a456;
+}
+
 .mobile-nav {
   position: fixed;
   top: 55px;
